@@ -1,4 +1,5 @@
-from log_parser import parse_log_file
+from python_security_utils.log_parser import parse_log_file
+
 
 def test_empty_file(tmp_path):
     p = tmp_path / "file.txt"
