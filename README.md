@@ -1,15 +1,17 @@
-# Python Foundations – Day 1
+# Python Security Utils
 
-## What I Learned
-- Python basics
-- Functions and loops
-- File handling
+A collection of **practical Python utility scripts** focused on  
+**security, robustness, and real-world engineering practices**.
 
-## What I Built
-- Number Analyzer
-- String Cleaner
-- File Reader
+This repository is part of my **GSoC 2026 preparation** (AI/ML + Cybersecurity track)  
+and is intended to grow into a reusable toolkit for security analysis,
+log processing, and ML pipeline support.
 
-## Next Steps
-- Error handling
-- Linux & Git deeper usage
+---
+
+## 🚀 Project Goals
+
+- Build **clean, defensive Python utilities**
+- Practice **real-world error handling**
+- Develop habits aligned with **open-source standards**
+- Gradually extend toward **AI + Security use cases**
