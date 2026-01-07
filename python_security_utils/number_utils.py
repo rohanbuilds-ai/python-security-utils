@@ -1,4 +1,14 @@
 def analyze_numbers(numbers):
+    """
+    Takes a list of numbers and returns
+    minimum, maximum, and average.
+    """
+    minimum = min(numbers)
+    maximum = max(numbers)
+    average = sum(numbers) / len(numbers)
+
+    return minimum, maximum, average
+def analyze_numbers(numbers):
     minimum = min(numbers)
     maximum = max(numbers)
     average = sum(numbers) / len(numbers)
