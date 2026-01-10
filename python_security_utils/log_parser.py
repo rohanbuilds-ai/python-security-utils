@@ -4,9 +4,6 @@ def parse_log_file(filename):
     - total lines
     - error lines
     - warning lines
-    Returns a tuple (total_lines, error_count, warning_count) 
-    It handles file not found and permission errors.
-    
     """
     total_lines = 0
     error_count = 0
